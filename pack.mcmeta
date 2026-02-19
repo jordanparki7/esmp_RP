@@ -1,6 +1,9 @@
 {
-  "pack": {
-    "min_format": 75,
-    "description": "EironasSMP Resource Pack"
-  }
+   "pack": { 
+		"description": "EironasSMP Resource Pack!",
+		"pack_format": 15,
+		"supported_formats": {"min_inclusive": 15, "max_inclusive": 999},
+		"min_format": 15,
+		"max_format": 999
+	}
 }
