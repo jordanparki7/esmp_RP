@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/transp_item_frame_map",
+    "textures": {
+        "back": "block/transp_item_frame"
+    }
+}
