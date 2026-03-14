@@ -1,0 +1,106 @@
+{
+  "getout": {
+    "sounds": [
+      "esmp:getout"
+    ]
+  },
+  "e2_dictophone": {
+    "sounds": [
+      "esmp:event2/dictophone"
+    ]
+  },
+  "e2_bank": {
+    "sounds": [
+      "esmp:event2/bank_1",
+      "esmp:event2/bank_2",
+      "esmp:event2/bank_3",
+      "esmp:event2/bank_4"
+    ]
+  },
+  "e2_buy": {
+    "sounds": [
+      "esmp:event2/buy"
+    ]
+  },
+  "e2_intro": {
+    "sounds": [
+      "esmp:event2/intro"
+    ]
+  },
+  "e2_trombone": {
+    "sounds": [
+      "esmp:event2/trombone"
+    ]
+  },
+  "e2_rockfall": {
+    "sounds": [
+      "esmp:event2/rockfall"
+    ]
+  },
+  "e2_bullet": {
+    "sounds": [
+      "esmp:event2/bullet"
+    ]
+  },
+  "e2_eagle": {
+    "sounds": [
+      "esmp:event2/eagle"
+    ]
+  },
+  "e2_music_1": {
+    "sounds": [
+      {
+        "name": "esmp:event2/music_1",
+        "stream": true
+      }
+    ]
+  },
+  "e2_music_2": {
+    "sounds": [
+      {
+        "name": "esmp:event2/music_2",
+        "stream": true
+      }
+    ]
+  },
+  "e2_music_3": {
+    "sounds": [
+      {
+        "name": "esmp:event2/music_3",
+        "stream": true
+      }
+    ]
+  },
+  "e2_music_train_15": {
+    "sounds": [
+      {
+        "name": "esmp:event2/music_train_15",
+        "stream": true
+      }
+    ]
+  },
+  "e2_music_train_30": {
+    "sounds": [
+      {
+        "name": "esmp:event2/music_train_30",
+        "stream": true
+      }
+    ]
+  },
+  "e2_winners_ceremony": {
+    "sounds": [
+      {
+        "name": "esmp:event2/winners_ceremony",
+        "stream": true
+      }
+    ]
+  },
+  "e2_goodnight": {
+    "sounds": [
+      {
+        "name": "esmp:event2/goodnight",
+        "stream": true
+      }
+    ]
+  }
+}
