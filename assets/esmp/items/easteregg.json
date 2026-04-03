@@ -1,0 +1,362 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "1",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/1"
+        }
+      },
+      {
+        "when": "2",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/2"
+        }
+      },
+      {
+        "when": "3",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/3"
+        }
+      },
+      {
+        "when": "4",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/4"
+        }
+      },
+      {
+        "when": "5",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/5"
+        }
+      },
+      {
+        "when": "6",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/6"
+        }
+      },
+      {
+        "when": "7",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/7"
+        }
+      },
+      {
+        "when": "8",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/8"
+        }
+      },
+      {
+        "when": "9",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/9"
+        }
+      },
+      {
+        "when": "10",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/10"
+        }
+      },
+      {
+        "when": "11",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/11"
+        }
+      },
+      {
+        "when": "12",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/12"
+        }
+      },
+      {
+        "when": "13",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/13"
+        }
+      },
+      {
+        "when": "14",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/14"
+        }
+      },
+      {
+        "when": "15",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/15"
+        }
+      },
+      {
+        "when": "16",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/16"
+        }
+      },
+      {
+        "when": "17",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/17"
+        }
+      },
+      {
+        "when": "18",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/18"
+        }
+      },
+      {
+        "when": "19",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/19"
+        }
+      },
+      {
+        "when": "20",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/20"
+        }
+      },
+      {
+        "when": "21",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/21"
+        }
+      },
+      {
+        "when": "22",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/22"
+        }
+      },
+      {
+        "when": "23",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/23"
+        }
+      },
+      {
+        "when": "24",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/24"
+        }
+      },
+      {
+        "when": "25",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/25"
+        }
+      },
+      {
+        "when": "26",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/26"
+        }
+      },
+      {
+        "when": "27",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/27"
+        }
+      },
+      {
+        "when": "28",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/28"
+        }
+      },
+      {
+        "when": "29",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/29"
+        }
+      },
+      {
+        "when": "30",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/30"
+        }
+      },
+      {
+        "when": "31",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/31"
+        }
+      },
+      {
+        "when": "32",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/32"
+        }
+      },
+      {
+        "when": "33",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/33"
+        }
+      },
+      {
+        "when": "34",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/34"
+        }
+      },
+      {
+        "when": "35",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/35"
+        }
+      },
+      {
+        "when": "36",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/36"
+        }
+      },
+      {
+        "when": "37",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/37"
+        }
+      },
+      {
+        "when": "38",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/38"
+        }
+      },
+      {
+        "when": "39",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/39"
+        }
+      },
+      {
+        "when": "40",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/40"
+        }
+      },
+      {
+        "when": "41",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/41"
+        }
+      },
+      {
+        "when": "42",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/42"
+        }
+      },
+      {
+        "when": "43",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/43"
+        }
+      },
+      {
+        "when": "44",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/44"
+        }
+      },
+      {
+        "when": "45",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/45"
+        }
+      },
+      {
+        "when": "46",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/46"
+        }
+      },
+      {
+        "when": "47",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/47"
+        }
+      },
+      {
+        "when": "48",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/48"
+        }
+      },
+      {
+        "when": "49",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/49"
+        }
+      },
+      {
+        "when": "50",
+        "model": {
+          "type": "minecraft:model",
+          "model": "esmp:item/easteregg/50"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:empty"
+    }
+  }
+}

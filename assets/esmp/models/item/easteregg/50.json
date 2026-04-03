@@ -1,0 +1,7 @@
+{
+  "parent": "esmp:item/easteregg/parent",
+  "textures": {
+    "1": "esmp:item/easteregg/50",
+    "particle": "esmp:item/easteregg/50"
+  }
+}
